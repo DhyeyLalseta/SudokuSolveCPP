@@ -1,2 +1,2 @@
 # SudokuSolveCPP
-A sudoku solver for C++
+A sudoku solver for C++. 
